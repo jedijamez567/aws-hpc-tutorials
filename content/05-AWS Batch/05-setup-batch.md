@@ -28,7 +28,7 @@ Compute environments can be seen as computational clusters. They can consist of 
 ![AWS Batch](/images/aws-batch/batch5.png)
 13. Select the **Enable user-specified Ami ID** check box, then type the ID of the AMI generated with Packer. Choose **Validate AMI** and you should see a similar result to the following image.
 ![AWS Batch](/images/aws-batch/batch6.png)
-14. For **VPI Id**, choose the default VPC.
+14. For **VPC Id**, choose the default VPC.
 15. Choose all subnets.
 16. For **Security groups**, leave the selection as the default.
 17. For **Placement groups**, leave the selection as the default.
